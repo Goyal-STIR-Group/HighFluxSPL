@@ -22,7 +22,7 @@ Each “main” file generates a different figure from the paper:
 
 - main_ranging_comparison.m generates Fig. 5, showing experimental results, validating the Markov chain modeling with real SPAD lidar data;
 
-- main_histogram_correction.m generates Fig. 6, showing a comparison between our proposed Markov chain-based histogram correction (MCHC) method with the one of [Isbaner et al.](projects.gwdg.de/projects/deadtimecorrectiontcspc);
+- main_histogram_correction.m generates Fig. 6, showing a comparison between our proposed Markov chain-based histogram correction (MCHC) method with the one of [Isbaner et al.](http://projects.gwdg.de/projects/deadtimecorrectiontcspc);
 
 - main_depth_image_reconstruction.m generates Fig. 7, showing the point cloud results of a lidar imaging experiment with a mannequin.
 
