@@ -10,7 +10,7 @@ contact: jrapp@bu.edu
 ## Getting started
 **Code**: Clone the repository to your local machine.
 
-**Data**: [Download the data](https://drive.google.com/file/d/1TwwtDn4BheJ9Ij25taWhk2_VLMedrtry/view?usp=sharing) and expand the zipfile to replace the empty *Data* directory.
+**Data**: [Download the data](https://drive.google.com/file/d/1TwwtDn4BheJ9Ij25taWhk2_VLMedrtry/view?usp=sharing) and expand the zipfile into the root directory of the repo.
 
 ## Running the Code
 
